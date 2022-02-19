@@ -1,5 +1,17 @@
-### Hi there 👋
-
-<div>
-    <a href="https>//github.com/Nettsku>
-<img height="180em" src="https://camo.githubusercontent.com/953dd37976777f858b122763c51efc2bfe824f9ac2349e54cb93d85ede1a0452/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7261666162616c6c6572696e692673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Nettsku;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+<div align="center">
+  <a href="https://github.com/Nettsku">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nettsku&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nettsku&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+    <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Neetsku" height="150" style="border-radius:50px;"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cacd6cf-a438-4d5c-98bb-121bf9861a58/df0brvz-754f394e-98e8-478d-9909-0ff0acf4bb66.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYWNkNmNmLWE0MzgtNGQ1Yy05OGJiLTEyMWJmOTg2MWE1OFwvZGYwYnJ2ei03NTRmMzk0ZS05OGU4LTQ3OGQtOTkwOS0wZmYwYWNmNGJiNjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Nz8uZxyPH-1DlUDpANFQP4fO1xbDNfcFlUoDptnFNd0">
+</div>
+    
+<div> 
+  <br>
+  <a href="https://www.youtube.com/channel/UCAkQHywsYmmTC-c7rBwnStQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ketsuo157/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
