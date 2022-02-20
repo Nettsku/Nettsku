@@ -8,7 +8,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Neetsku" height="150" style="border-radius:50px;"src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cacd6cf-a438-4d5c-98bb-121bf9861a58/df0brvz-754f394e-98e8-478d-9909-0ff0acf4bb66.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFjYWNkNmNmLWE0MzgtNGQ1Yy05OGJiLTEyMWJmOTg2MWE1OFwvZGYwYnJ2ei03NTRmMzk0ZS05OGU4LTQ3OGQtOTkwOS0wZmYwYWNmNGJiNjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Nz8uZxyPH-1DlUDpANFQP4fO1xbDNfcFlUoDptnFNd0">
+  <img align="right" alt="Neetsku" height="150" style="border-radius:50px;"src="https://c.tenor.com/wDDY2RNqRGEAAAAM/anime.gif">
 </div>
     
 <div> 
